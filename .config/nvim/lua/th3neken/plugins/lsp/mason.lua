@@ -46,6 +46,7 @@ return {
 				"stylua", -- lua formatter
 				"ruff", -- python formatter
 				"eslint_d", -- js linter
+				"debugpy",
 			},
 		})
 	end,
