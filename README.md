@@ -10,22 +10,19 @@
 If you're on mac, like me, you can install iTerm2, Neovim, Meslo Nerd Font, Ripgrep and Node with homebrew.
 
 ```
+
 ==> Formulae
-autoconf                libevent                ncurses                 tmux
-bash                    libgit2                 neovim                  tree
-brotli                  libnghttp2              node                    tree-sitter
-c-ares                  libssh2                 openssl@3               unibilium
-ca-certificates         libuv                   pcre2                   utf8proc
-docker                  libvterm                pkg-config              yabai
-docker-completion       lpeg                    powerlevel10k           zoxide
-eza                     luajit                  pyenv                   zsh-autosuggestions
-gettext                 luv                     readline                zsh-syntax-highlighting
-icu4c                   m4                      ripgrep
-lazygit                 msgpack                 skhd
+autoconf                docker-completion       libgit2                 luajit                  node                    readline                unibilium
+bandit                  eza                     libnghttp2              luv                     openssl@3               ripgrep                 utf8proc
+bash                    fd                      libssh2                 m4                      pcre2                   skhd                    xz
+brotli                  gettext                 libuv                   mpdecimal               pkg-config              sqlite                  yabai
+c-ares                  icu4c                   libvterm                msgpack                 powerlevel10k           tmux                    zoxide
+ca-certificates         lazygit                 libyaml                 ncurses                 pyenv                   tree                    zsh-autosuggestions
+docker                  libevent                lpeg                    neovim                  python@3.12             tree-sitter             zsh-syntax-highlighting
 
 ==> Casks
-alacritty               google-chrome           logi-options-plus       todoist
-font-fira-code          iterm2                  nvidia-geforce-now      wezterm
-font-meslo-lg-nerd-font keepassxc               obsidian
+alacritty               font-meslo-lg-nerd-font iterm2                  logi-options-plus       nvidia-geforce-now      todoist
+font-fira-code          google-chrome           keepassxc               ngrok                   obsidian                wezterm
+
 
 ```
